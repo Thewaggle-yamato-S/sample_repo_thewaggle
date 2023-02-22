@@ -5,6 +5,7 @@
 
 * index.htmlの作成 -> 担当 Aさん
 * app.cssの作成 -> 担当 Bさん
+* style.cssの作成　-> 担当 Bさん
 * index.jsの作成 -> 担当 Cさん
 
 #### 構成案 Aさん
